@@ -17,3 +17,11 @@ Country-level breakdowns
 1. How has global energy consumption and production changed over time?
 2. What is the share of renewable energy compared to fossil fuels across regions?
 3. How do CO₂ emissions correlate with energy production and consumption?
+
+#Process
+1. Data Loading & Inspection – Load dataset, check for missing values, duplicates, and data types.
+2. Data Cleaning – Handle missing values, remove duplicates, and standardize formats.
+3. Exploratory Data Analysis (EDA) – Identify consumption/production trends, renewable share, and emission patterns.
+3. KPI Generation – Calculate renewable energy ratios, per-country CO₂ intensity, and growth rates.
+4. Visualization – Generate plots (time series, bar charts, correlation plots).
+5. Documentation – Save results in Jupyter Notebook and prepare insights for GitHub.
