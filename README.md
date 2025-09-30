@@ -24,4 +24,13 @@ Country-level breakdowns
 3. Exploratory Data Analysis (EDA) – Identify consumption/production trends, renewable share, and emission patterns.
 3. KPI Generation – Calculate renewable energy ratios, per-country CO₂ intensity, and growth rates.
 4. Visualization – Generate plots (time series, bar charts, correlation plots).
-5. Documentation – Save results in Jupyter Notebook and prepare insights for GitHub.
+5. Documentation – Save results in google colab and prepare insights for GitHub.
+# Dashboard
+
+ was created to summarize findings. Suggested views include:
+
+Global Energy Consumption & Production Trend (1990–2020)
+Renewable Energy Share (%) by Country/Region
+CO₂ Emissions vs. Energy Use Correlation
+Top 10 Energy Producers & Consumers
+share of electricity in final energy consumption
