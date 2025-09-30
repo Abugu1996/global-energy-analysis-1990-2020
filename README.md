@@ -18,7 +18,7 @@ Country-level breakdowns
 2. What is the share of renewable energy compared to fossil fuels across regions?
 3. How do CO₂ emissions correlate with energy production and consumption?
 
-#Process
+# Process
 1. Data Loading & Inspection – Load dataset, check for missing values, duplicates, and data types.
 2. Data Cleaning – Handle missing values, remove duplicates, and standardize formats.
 3. Exploratory Data Analysis (EDA) – Identify consumption/production trends, renewable share, and emission patterns.
