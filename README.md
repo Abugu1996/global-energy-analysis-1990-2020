@@ -25,12 +25,36 @@ Country-level breakdowns
 3. KPI Generation – Calculate renewable energy ratios, per-country CO₂ intensity, and growth rates.
 4. Visualization – Generate plots (time series, bar charts, correlation plots).
 5. Documentation – Save results in google colab and prepare insights for GitHub.
+
 # Dashboard
 
  was created to summarize findings. Suggested views include:
 
-Global Energy Consumption & Production Trend (1990–2020)
-Renewable Energy Share (%) by Country/Region
-CO₂ Emissions vs. Energy Use Correlation
-Top 10 Energy Producers & Consumers
-share of electricity in final energy consumption
+1. Global Energy Consumption & Production Trend (1990–2020)
+. Renewable Energy Share (%) by Country/Region
+3. CO₂ Emissions vs. Energy Use Correlation
+4. Top 10 Energy Producers & Consumers
+5. share of electricity in final energy consumption
+
+#Project Insights
+
+. Global Energy Consumption & Production (KPI 1):
+Consumption and production both rose between 1990 and 2020, but consumption often exceeded production in certain regions. This indicates increasing reliance on imports and greater strain on global supply.
+
+. Renewable Energy Share (KPI 2):
+Renewables grew rapidly after 2010, with Europe and Asia driving most of the gains. However, fossil fuels still dominate the global energy mix, and renewable adoption remains uneven across regions.
+
+. CO₂ Emissions vs. Energy Use (KPI 3):
+The dashboard shows a strong link between energy consumption and emissions. Countries with high industrial activity (e.g., USA, China, India) are also the largest CO₂ emitters. Renewable-heavy regions show slower emissions growth, proving the value of clean energy adoption.
+
+. Top Producers & Consumers (Dashboard Result):
+The top 10 producers and consumers are concentrated among industrialized and rapidly developing economies. These regions hold the greatest potential for impactful energy and climate policies.
+
+. Electricity Generation Mix (Dashboard Result):
+Electricity generation is slowly diversifying. While coal and oil remain significant, natural gas and renewables are steadily increasing, signaling a gradual but important shift toward cleaner energy.
+
+# Final Conclusion
+
+The 1990–2020 energy data reveals a clear story: energy demand is rising worldwide, fossil fuels still dominate, and renewable energy—though growing—has not yet overtaken them. Industrialized and fast-growing economies drive most of the world’s energy use and CO₂ emissions, making them central to achieving global sustainability goals.
+
+The project underscores that progress toward a cleaner energy future is real but too slow. A sustainable balance will require accelerated renewable adoption, stronger climate policies, and technological innovation to reduce emissions while meeting the world’s growing energy needs.
