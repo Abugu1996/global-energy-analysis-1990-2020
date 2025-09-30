@@ -36,7 +36,7 @@ Country-level breakdowns
 4. Top 10 Energy Producers & Consumers
 5. share of electricity in final energy consumption
 
-#Project Insights
+# Project Insights
 
 . Global Energy Consumption & Production (KPI 1):
 Consumption and production both rose between 1990 and 2020, but consumption often exceeded production in certain regions. This indicates increasing reliance on imports and greater strain on global supply.
@@ -55,6 +55,6 @@ Electricity generation is slowly diversifying. While coal and oil remain signifi
 
 # Final Conclusion
 
-The 1990–2020 energy data reveals a clear story: energy demand is rising worldwide, fossil fuels still dominate, and renewable energy—though growing—has not yet overtaken them. Industrialized and fast-growing economies drive most of the world’s energy use and CO₂ emissions, making them central to achieving global sustainability goals.
+The 1990–2020 energy data reveals a clear story: energy demand is rising worldwide, fossil fuels still dominate, and renewable energy though growing has not yet overtaken them. Industrialized and fast-growing economies drive most of the world’s energy use and CO₂ emissions, making them central to achieving global sustainability goals.
 
 The project underscores that progress toward a cleaner energy future is real but too slow. A sustainable balance will require accelerated renewable adoption, stronger climate policies, and technological innovation to reduce emissions while meeting the world’s growing energy needs.
