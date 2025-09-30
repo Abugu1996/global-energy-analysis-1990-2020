@@ -50,7 +50,7 @@ The dashboard shows a strong link between energy consumption and emissions. Coun
 . Top Producers & Consumers (Dashboard Result):
 The top 10 producers and consumers are concentrated among industrialized and rapidly developing economies. These regions hold the greatest potential for impactful energy and climate policies.
 
-. Electricity Generation Mix (Dashboard Result):
+. share of electricity in final energy consumption (Dashboard Result):
 Electricity generation is slowly diversifying. While coal and oil remain significant, natural gas and renewables are steadily increasing, signaling a gradual but important shift toward cleaner energy.
 
 # Final Conclusion
